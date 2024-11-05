@@ -3,8 +3,6 @@
 - [Introduction](#Introduction)
 - [Tools](#Tools)
 - [Key Steps](#key-steps)
-- [Ethical considerations](#Ethical-considerations)
-- [References for the data](#References-for-the-data)
 - [References for codes](#References-for-codes)
 
 
